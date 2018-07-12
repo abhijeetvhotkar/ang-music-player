@@ -28,7 +28,7 @@ app.on('ready', function () {
     // win.loadURL('http://localhost:4000');
 
     // Show dev tools
-    // Remove this line before distributing
+    // TODO Remove this line before distributing
     win.webContents.openDevTools()
 
     // Remove window once app is closed
